@@ -10,6 +10,7 @@
     <packaging>pom</packaging>
     <modules>
         <module>shiro-quickstart</module>
+        <module>shiro-quickstart-realm</module>
     </modules>
 
     <developers>
