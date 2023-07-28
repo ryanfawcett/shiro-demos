@@ -11,6 +11,7 @@
     <modules>
         <module>shiro-quickstart</module>
         <module>shiro-quickstart-realm</module>
+        <module>shiro-quickstart-multiple-realm</module>
     </modules>
 
     <developers>
